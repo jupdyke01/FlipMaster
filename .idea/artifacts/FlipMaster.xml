@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlipMaster">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlipMaster</output-path>
+    <root id="archive" name="FlipMaster.jar">
+      <element id="module-output" name="FlipMaster" />
+    </root>
+  </artifact>
+</component>
